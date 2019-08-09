@@ -470,6 +470,7 @@ textarea {
 .full_w {
   width: 100%;
 }
+
 .bg {
   background: #F8F8F8;
 }
@@ -514,8 +515,17 @@ textarea {
 .black {
   color: #000000;
 }
-.gray{
+
+.gray {
   color: #999;
+}
+
+.bgray {
+  background: #999;
+}
+
+.wa {
+  width: auto
 }
 
 .w_92 {
@@ -534,7 +544,6 @@ textarea {
   margin-left: 40%;
 }
 
-
 .m_r_3 {
   margin-right: 3.75%;
 }
@@ -546,7 +555,9 @@ textarea {
 
 .m_top_3 {
   margin-top: 3%;
-}.m_top_1 {
+}
+
+.m_top_1 {
   margin-top: 1%;
 }
 
@@ -557,18 +568,34 @@ textarea {
 .m_top_8 {
   margin-top: 8%;
 }
-.m_b_60{height: 60px;background: #F8F8F8}
+
+.m_b_60 {
+  height: 60px;
+  background: #F8F8F8
+}
 
 .mt_65 {
   margin-top: 65%;
 }
-.h_30{
+
+.h_30 {
   height: 30px;
   line-height: 30px;
 }
-.h_60{
+
+.h_60 {
   height: 60px;
   line-height: 60px;
+}
+
+.h_45 {
+  height: 45%;
+  line-height: 45%;
+}
+
+.h_150 {
+  height: 150px;
+  line-height: 150px;
 }
 
 
