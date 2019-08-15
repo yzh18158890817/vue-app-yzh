@@ -1,0 +1,30 @@
+.edit {
+  position: relative;
+  margin-top: 5%;
+}
+
+.edit > input {
+  position: relative;
+  margin-top: 2%;
+  height: 30px;
+  width: 80%;
+  background: #18b36b;
+}
+
+.edit > textarea {
+  position: relative;
+  margin-top: 5%;
+  height: 400px;
+  width: 80%;
+}
+
+.poetry {
+  position: relative;
+  margin-top: 3%;
+}
+
+.poetry > div {
+  position: relative;
+  margin-top: 3%;
+  text-align: left;
+}

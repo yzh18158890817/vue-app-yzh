@@ -596,6 +596,9 @@ textarea {
 .h_150 {
   height: 150px;
   line-height: 150px;
+}.h_75 {
+  height: 75px;
+  line-height: 75px;
 }
 
 

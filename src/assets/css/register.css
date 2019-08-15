@@ -1,0 +1,21 @@
+.g_i {
+  /*position: relative;*/
+}
+
+.g_i > div {
+  position: relative;
+  margin-top: 1%;
+  height: 30px;
+  line-height: 30px;
+}
+
+.g_i > div > .van-radio-group > .van-radio {
+  float: left;
+  margin-left: 3.75%;
+  margin-top: 1%;
+}
+
+.g_i > div > span {
+  float: left;
+  margin-left: 10%;
+}
